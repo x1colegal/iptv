@@ -1265,3 +1265,7 @@ https://server.livelegitpro.in:9899/gospeltv/index.m3u8
 http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 #EXTINF:-1 tvg-id="SamacharPlus.in@SD",Samachar Plus
 https://cdn-2.pishow.tv/live/269/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (576p)
+http://103.213.31.109:90/B4UMusic/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
+http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8

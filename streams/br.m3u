@@ -391,3 +391,27 @@ https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNovaMutum.br@SD",SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="NickOnlineSpongebob.br@HD",NickOnline Spongebob (720p) [Not 24/7]
+https://x1co.com.br:2083/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PremiereFC8.br@SD",Premiere FC 8
+https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="PremiereFC7.br@SD",Premiere FC 7
+https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="PremiereFC6.br@SD",Premiere FC 6
+https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="PremiereFC5.br@SD",Premiere FC 5
+https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="PremiereFC4.br@SD",Premiere FC 4
+https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="PremiereFC3.br@SD",Premiere FC 3
+https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="PremiereFC2.br@SD",Premiere FC 2
+https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="PremiereFC1.br@SD",Premiere FC 1
+https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="SporTV3.br@SD",SporTV 3 (1080p)
+https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="SporTV2.br@SD",SporTV 2 (1280p)
+https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="SporTV.br@SD",SporTV (1280p)
+https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0

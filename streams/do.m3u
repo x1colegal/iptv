@@ -76,8 +76,6 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="CieloTV.do@SD",Cielo TV (1080p)
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD",Cinevision Canal 19 (720p)
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do@SD",Claro Televisión Dominicana (360p)
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-id="ClaroVisionTV.do@SD",Claro Visión TV (720p)
@@ -211,8 +209,6 @@ https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do@SD",Makao TV (360p)
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-id="MakinaTV.do@SD",Makina TV [Not 24/7]
-https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
 #EXTINF:-1 tvg-id="ManaclarTelevision.do@SD",Manaclar Television [Not 24/7]
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="MarkaTV.do@HD",Marka TV (720p) [Not 24/7]
@@ -508,3 +504,9 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 https://edge.essastream.com/aiontelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="LaSalvaciondelAlmaTV.do@SD",La Salvacion del Alma TV
 https://vs20.live.opencaster.com/lasalvaciondelalmatv_dfc663c0/index.m3u8
+#EXTINF:-1 tvg-id="MakinaTV.do@SD",Makina TV (720p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD",Cinevision Canal 19 (1080p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="AltantoTV.do@SD",Altanto TV (1080p) [Not 24/7]
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8

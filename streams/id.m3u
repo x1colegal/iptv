@@ -45,8 +45,6 @@ https://flv.intechmedia.net/live/ch112.m3u8
 http://175.158.57.130:8888/stream/channelid/1402218159
 #EXTINF:-1 tvg-id="BRTV.id@SD",BRTV (720p)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:-1 tvg-id="BTV.id@SD",BTV (720p)
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="BungoTV.id@SD",Bungo TV (480p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CarubanTV.id@HD",Caruban TV (1080p)
@@ -102,8 +100,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="JakTV.id@SD",Jak TV (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-#EXTINF:-1 tvg-id="JakartaGlobeNewsChannel.id@SD",Jakarta Globe News Channel (1080p)
-https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="JambiTV.id@SD",Jambi TV (480p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://jambitv.co.id/live-tv/
 https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
@@ -398,3 +394,7 @@ http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD",BeritaSatu (1080p)
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="JakartaGlobeNewsChannel.id@SD",Jakarta Globe News Channel (1080p)
+https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="BTV.id@SD",BTV (1080p)
+https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
